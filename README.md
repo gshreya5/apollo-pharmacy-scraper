@@ -77,3 +77,5 @@ It will:
 
 
 Built by SG using Python, requests, and BeautifulSoup.
+
+If you find this repo useful, please ⭐ it on GitHub
